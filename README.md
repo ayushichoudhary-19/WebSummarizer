@@ -1,7 +1,7 @@
 
 # Web Summarizer Chrome Extension
 
-A Chrome extension that allows you to summarize the content of web pages using the Cohere.ai API.
+A Chrome extension that allows you to summarize the content of web pages using the **Cohere.ai API**.
 
 ## Overview
 
