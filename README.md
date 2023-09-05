@@ -68,7 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Cohere.ai](https://cohere.ai/) for providing the summarization API.
 - [Chrome Extension Developer Documentation](https://developer.chrome.com/docs/extensions/mv3/getstarted/) for guidance on building Chrome extensions.
 ```
-
-Make sure to replace placeholders like `'YOUR_API_KEY'`, `yourusername`, and add any additional details specific to your project.
-
-This README.md provides an introduction to your project, instructions for getting started, how to use the extension, and other relevant information. Feel free to expand upon it and add more details as needed.
