@@ -1,6 +1,6 @@
 // Replace 'YOUR_API_KEY' with your actual OpenAI API key
-const apiKey = 'WVw0nQKj6EuhxVCQbMA2wuIxcpBFCVHzhfMT9jzF';
-// Function to send a request to the ChatGPT API for summarization
+const apiKey = 'YOUR_API_KEY';
+// Function to send a request to the Cohere API API for summarization
 async function summarizePageContent(pageContent, sendResponse) {
     try {
         const response = await fetch('https://api.cohere.ai/v1/summarize', {
@@ -44,7 +44,6 @@ async function summarizePageContent(pageContent, sendResponse) {
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
      if (request.action === "summarizePage") {
         const pageContent = request.content;
-        console.log(pageContent);
         // Call the function to summarize the page content and send the response back
         summarizePageContent(pageContent, sendResponse);
     }
