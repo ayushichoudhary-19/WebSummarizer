@@ -39,9 +39,11 @@ To get started with the Web Summarizer Chrome Extension, follow these steps:
 
 2. Click the extension icon (the puzzle piece) in the top right corner of your Chrome browser.
 
-3. Click the "Summarize" button in the popup.
+3. Click on the 'WebSummarizer' extension. 
 
-4. The summary of the web page content will be displayed in the popup.
+4. Click the "Summarize" button in the popup.
+
+5. The summary of the web page content will be displayed in the popup.
 
 ## Configuration
 
