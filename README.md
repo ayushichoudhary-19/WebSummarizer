@@ -7,6 +7,12 @@ A Chrome extension that allows you to summarize the content of web pages using t
 
 This Chrome extension enables users to extract and summarize the content of the currently opened web page. It utilizes the Cohere.ai API to generate concise summaries of web page content. The summarized content is then displayed in a popup within the Chrome browser.
 
+## Screenshots
+![Screenshot (1148)](https://github.com/ayushichoudhary-19/WebSummarizer/assets/73214455/85d0b42d-df47-42fb-80fb-5a06842c5384)
+
+![Screenshot (1147)](https://github.com/ayushichoudhary-19/WebSummarizer/assets/73214455/9baffd5b-2010-4f0a-b52a-f352be06a508)
+
+
 ## Features
 
 - Summarize web page content.
