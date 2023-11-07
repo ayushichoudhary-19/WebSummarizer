@@ -1,3 +1,1 @@
-'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';
-
-'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';
+"Save APIs Here"
