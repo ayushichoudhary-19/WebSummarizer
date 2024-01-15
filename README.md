@@ -1,9 +1,10 @@
-
-# Web Summarizer Chrome Extension
+   
+   ![image](https://github.com/ayushichoudhary-19/WebSummarizer/assets/73214455/7387f4d8-cf64-498b-a797-a5cc8bc0cf17) 
+   #  Web Summarizer Chrome Extension
 
 A Chrome extension that allows you to summarize the content of web pages using the **Cohere.ai API**.
 
-##📦 Overview
+## 📦 Overview
 
 This Chrome extension enables users to extract and summarize the content of the currently opened web page. It utilizes the Cohere.ai API to generate concise summaries of web page content. The summarized content is then displayed in a popup within the Chrome browser.
 
